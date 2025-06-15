@@ -1,5 +1,7 @@
 # AIRole.net - AI 角色卡生成器
 
+![](images/logo.png)
+
 一个开源的 AI 驱动角色卡生成器，帮助您为角色扮演游戏、故事创作和 AI 聊天机器人创建详细的角色卡片。基于 Next.js 和现代网络技术构建。
 
 [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
