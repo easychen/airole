@@ -1,8 +1,11 @@
-# AIRole.net - AI Character Card Generator
-
+# AIRole - Effortless AI Character Card Creator
 ![](images/logo.png)
 
-An open-source AI-powered character card generator that helps you create detailed character cards for role-playing games, storytelling, and AI chatbots ( [using character-card-spec-v2](https://github.com/malfoyslastname/character-card-spec-v2) ). Built with Next.js and modern web technologies.
+✨ Create character cards from a single image with just a few clicks!
+
+An incredibly simple and user-friendly open-source AI character card generator. Upload a character image, let AI automatically analyze and generate detailed character attributes, perfect for role-playing games, storytelling, and AI chatbots ( [using character-card-spec-v2](https://github.com/malfoyslastname/character-card-spec-v2) ). Built with Next.js and modern web technologies.
+
+**🚀 Super simple workflow: Upload Image → AI Analysis & Generation → Fine-tune → Export & Use**
 
 
 

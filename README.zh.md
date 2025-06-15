@@ -1,8 +1,12 @@
-# AIRole.net - AI 角色卡生成器
+# AIRol - 从图片一键生成角色卡
 
 ![](images/logo.png)
 
-一个开源的 AI 驱动角色卡生成器，帮助您为角色扮演游戏、故事创作和 AI 聊天机器人创建详细的角色卡片( [基于character-card-spec-v2规范](https://github.com/malfoyslastname/character-card-spec-v2) )。基于 Next.js 和现代网络技术构建。
+✨ 只需要几次点击，就能从一张图片生成不错的角色卡！
+
+一个极其简单易用的开源 AI 角色卡生成器。上传角色图片，AI 自动分析并生成详细的角色属性，完美适用于角色扮演游戏、故事创作和 AI 聊天机器人( [基于character-card-spec-v2规范](https://github.com/malfoyslastname/character-card-spec-v2) )。基于 Next.js 和现代网络技术构建。
+
+**🚀 操作流程超简单：上传图片 → AI 分析生成 → 微调优化 → 导出使用**
 
 [![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
