@@ -6,7 +6,7 @@ This guide covers different deployment options for AIRole.net.
 
 ### One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
 ### Manual Vercel Deployment
 
@@ -186,7 +186,7 @@ server {
 
 ### Getting Help
 
-- Check [GitHub Issues](https://github.com//easychen/airole/issues)
+- Check [GitHub Issues](https://github.com/easychen/airole/issues)
 - Join our community discussions
 - Review the [troubleshooting guide](USER_GUIDE.md)
 

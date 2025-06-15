@@ -2,7 +2,7 @@
 
 An open-source AI-powered character card generator that helps you create detailed character cards for role-playing games, storytelling, and AI chatbots. Built with Next.js and modern web technologies.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ An open-source AI-powered character card generator that helps you create detaile
 
 The easiest way to get started is to deploy directly to Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
 After deployment, you can configure the environment variables in your Vercel dashboard to enable additional features.
 
@@ -202,7 +202,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Reporting Issues
 
-Found a bug or have a feature request? Please [open an issue](https://github.com//easychen/airole/issues).
+Found a bug or have a feature request? Please [open an issue](https://github.com/easychen/airole/issues).
 
 ## 📄 License
 
@@ -218,15 +218,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: Check the [User Guide](USER_GUIDE.md)
-- **Issues**: [GitHub Issues](https://github.com//easychen/airole/issues)
-- **Discussions**: [GitHub Discussions](https://github.com//easychen/airole/discussions)
+- **Issues**: [GitHub Issues](https://github.com/easychen/airole/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/easychen/airole/discussions)
 
 ---
 
 <div align="center">
   <p>Made with ❤️ by the AIRole.net team</p>
   <p>
-    <a href="https://github.com//easychen/airole">⭐ Star us on GitHub</a> •
-    <a href="https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole">🚀 Deploy to Vercel</a>
+    <a href="https://github.com/easychen/airole">⭐ Star us on GitHub</a> •
+    <a href="https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole">🚀 Deploy to Vercel</a>
   </p>
 </div> 

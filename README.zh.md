@@ -2,7 +2,7 @@
 
 一个开源的 AI 驱动角色卡生成器，帮助您为角色扮演游戏、故事创作和 AI 聊天机器人创建详细的角色卡片。基于 Next.js 和现代网络技术构建。
 
-[![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole)
+[![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
 ## ✨ 功能特点
 
@@ -24,7 +24,7 @@
 
 最简单的开始方式是直接部署到 Vercel：
 
-[![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole)
+[![部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
 部署后，您可以在 Vercel 仪表板中配置环境变量以启用其他功能。
 
@@ -203,7 +203,7 @@ npm run start
 
 ### 报告问题
 
-发现错误或有功能请求？请[提交问题](https://github.com//easychen/airole/issues)。
+发现错误或有功能请求？请[提交问题](https://github.com/easychen/airole/issues)。
 
 ## 📄 许可证
 
@@ -219,15 +219,15 @@ npm run start
 ## 📞 支持
 
 - **文档**：查看[用户指南](USER_GUIDE.md)
-- **问题**：[GitHub 问题](https://github.com//easychen/airole/issues)
-- **讨论**：[GitHub 讨论](https://github.com//easychen/airole/discussions)
+- **问题**：[GitHub 问题](https://github.com/easychen/airole/issues)
+- **讨论**：[GitHub 讨论](https://github.com/easychen/airole/discussions)
 
 ---
 
 <div align="center">
   <p>由 AIRole.net 团队用 ❤️ 制作</p>
   <p>
-    <a href="https://github.com//easychen/airole">⭐ 在 GitHub 上给我们星标</a> •
-    <a href="https://vercel.com/new/git/external?repository-url=https://github.com//easychen/airole">🚀 部署到 Vercel</a>
+    <a href="https://github.com/easychen/airole">⭐ 在 GitHub 上给我们星标</a> •
+    <a href="https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole">🚀 部署到 Vercel</a>
   </p>
 </div> 
