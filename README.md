@@ -2,7 +2,7 @@
 
 ![](images/logo.png)
 
-An open-source AI-powered character card generator that helps you create detailed character cards for role-playing games, storytelling, and AI chatbots. Built with Next.js and modern web technologies.
+An open-source AI-powered character card generator that helps you create detailed character cards for role-playing games, storytelling, and AI chatbots ( [using character-card-spec-v2](https://github.com/malfoyslastname/character-card-spec-v2) ). Built with Next.js and modern web technologies.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/easychen/airole)
 
