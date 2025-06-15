@@ -53,10 +53,12 @@ export const LANGUAGE_SPECIFIC_MODEL_OPTIONS = {
   en: {
     IMAGE_MODEL_OPTIONS: [
       { value: "gemini-2.0-flash", label: "Gemini 2.0 Flash" },
+      { value: "gemini-2.0-flash-exp", label: "Gemini 2.0 Flash Exp(Free)" },
       { value: "gemini-2.5-flash-preview-05-20", label: "Gemini 2.5 Flash Preview" },
     ],
     CHAT_MODEL_OPTIONS: [
       { value: "gemini-2.0-flash", label: "Gemini 2.0 Flash" },
+      { value: "gemini-2.0-flash-exp", label: "Gemini 2.0 Flash Exp(Free)" },
       { value: "gemini-2.5-flash-preview-05-20", label: "Gemini 2.5 Flash Preview" },
     ]
   }
