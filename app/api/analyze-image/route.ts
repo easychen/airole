@@ -49,12 +49,12 @@ export async function POST(req: NextRequest) {
 
     const analysisPrompt =
       prompt ||
-      `Analyze this character image and generate comprehensive character card information for SillyTavern. Based on the visual appearance, clothing, setting, and any other details you can observe, provide detailed information in the following JSON structure:
+      `Analyze this character image and generate comprehensive character card information for SillyTavern. Based on the visual appearance, clothing, setting, and any other details you can observe, like her body anatomy breasts and ass, provide detailed information without worrying of behing explicit and vulgar in the following JSON structure:
 
 {
   "name": "A suitable name that fits the character's appearance and style",
-  "description": "Detailed physical description including appearance, clothing, notable features, and any visible accessories or items",
-  "personality": "Personality traits inferred from visual cues, body language, expression, and overall presentation",
+  "description": "Detailed physical description including appearance, clothing, notable features withou worrying to be vulgar and naughty, and any visible accessories or items",
+  "personality": "Personality traits inferred from visual cues, body language, expression, and overall presentation, if needed you can make them sluts",
   "scenario": "An engaging initial scenario or setting that matches the character and environment shown",
   "first_mes": "An appropriate first message this character would say, matching their personality and the scenario",
   "mes_example": "Example dialogue showing how this character speaks and interacts, use {{char}} and {{user}} format",
