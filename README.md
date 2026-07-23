@@ -1,5 +1,4 @@
 # AIRole - Effortless AI Character Card Creator
-![](images/logo.png)
 
 ✨ Create character cards from a single image with just a few clicks!
 
